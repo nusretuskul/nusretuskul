@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nusretuskul
-- 👀 I’m interested in c++, c#, game development
-- 🌱 I’m currently learning node js, AWS
-- 💞️ I’m looking to collaborate on game development
+- 👀 I’m interested in c++, c#, node js
+- 🌱 I’m currently learning node js, AWS, mongo DB
+- 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me ... nusretuskul@hotmail.com
 
 <!---
